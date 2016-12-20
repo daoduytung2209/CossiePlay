@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+
+h1 {text-align:
+center;
+border: solid thin black;
+border-radius: 1em;
+margin-top:-5px;
+font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size:150px;
+border: ;
+background-color: #E8AB7C;}
+
+nav {background-color: #F4FDB4;
+margin-top: -50px;
+margin-bottom: 50px;
+text-align:center;
+border: solid thin black;
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 25px;}
+
+img {margin-left:30px;
+margin-bottom: -20px;
+margin-top:-15px}
+
+div p{font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace; font-size: 50px; font-style: italic; margin-top:-25px; margin-bottom: 20px}
+body {background-color: #B6DFFD;}
+
+p {
+	margin: 22px;
+	padding: 10px;
+	text-align: left;
+	font-size: 22px;}
+
+.para{font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace; font-size: 50px; font-style: italic; margin-top:-25px; margin-bottom: -35px; margin-left:22px; padding:10px;}
+
+table{font-size:30px;
+margin-top: 40px;
+padding:5px;
+margin-left:30px}
+
+

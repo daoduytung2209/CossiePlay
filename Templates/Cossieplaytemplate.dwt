@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/CossiePlay.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>CossiePlay</h1>
+<nav> <a href="../index.html">Home</a> &nbsp; <a href="../about_us.html">About Us</a> &nbsp; <a href="../costumes.html">Costumes</a> &nbsp; <a href="../contact.html">Contact</a> &nbsp; <a href="../party_guidelines.html">Party Guidelines</a> &nbsp; <a href="../sign-up.html">Sign-Up</a> &nbsp; <a href="../announcements.html">Announcements</a> &nbsp; <a href="../links.html">Links</a></nav>
+<!-- TemplateBeginEditable name="MainContent" -->
+<p> Main_Content </p>
+<!-- TemplateEndEditable -->
+</body>
+</html>
